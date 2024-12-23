@@ -5,3 +5,8 @@
 ``` javascript
 const name = "Randil";
 ```
+
+
+- [ ] Learn HTML
+- [ ] Learn CSS
+- [ ] Learn JS
